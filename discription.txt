@@ -1,0 +1,4 @@
+"Welcome. This is my solution folder in Ben Stevenson's problem book. I'm posting my work here to keep growing." 
+
+ISBN 978-3-030-18872-6 (eng.)
+ISBN 978-5-97060-916-3 (рус.)
